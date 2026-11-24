@@ -2,6 +2,7 @@
 
 Catalog of 8-page zines about mathematics and computer science that are freely available online. Each entry includes the title of the zine, the author(s) and their institution, and a link to where the zine was originally shared. ⭐ marks personal favorites. Zines in any language are welcome. If you want to print a zine below, make sure you use the correct paper format. You can then follow [one](https://marekbennett.com/2020/01/24/1sheet-mini-01/) [of](https://github.com/lrlna/smol-zines/blob/main/zines/instructions.md) [the](https://benoithamelin.com/papers/folding.html) [many](https://www.youtube.com/watch?v=OJ77o17fTYk) [guides](https://www.museums.cam.ac.uk/sites/default/files/how%20to%20fold%20a%20zine.pdf) to fold a zine.
 
+NB: Some links are broken and cannot be fixed because the zine is not available online anymore (I keep copies that I can share privately).
 ---
 
 ## Mathematics
@@ -20,7 +21,7 @@ Catalog of 8-page zines about mathematics and computer science that are freely a
 
 | Title | Author(s) @ Institution | Language |
 | --- | --- | --- |
-| ⭐ [**Magic Squares**](https://maths-week.ams3.cdn.digitaloceanspaces.com/apply-for-challenge-form/files/BGE-Magic-Square-Zine-MWS.pdf) | [Ayliean](https://linktr.ee/Ayliean) | English |
+| ⭐ [**Magic Squares**](https://maths-week.ams3.cdn.digitaloceanspaces.com/apply-for-challenge-form/files/BGE-Magic-Square-Zine-MWS.pdf) _broken_ | [Ayliean](https://linktr.ee/Ayliean) | English |
 
 <!-- ### Calculus (no zines yet) -->
 
@@ -29,6 +30,7 @@ Catalog of 8-page zines about mathematics and computer science that are freely a
 | Title | Author(s) @ Institution | Language |
 | --- | --- | --- |
 | [**The Four Colour Theorem**](https://www.public-math.org/s/4COLORZINE_A4-c6dj.pdf) | [Jorge Luján Mora](https://www.youtube.com/@qedmates737) | English |
+| [**Colouring Graphs**](https://ralphs16.github.io/src/graphcolzine_printable.pdf) | [Ralph Sarkis](https://ralphs16.github.io/) @ [UCL Computer Science](https://www.ucl.ac.uk/engineering/computer-science) | English |
 
 <!-- ### Cryptography (no zines yet) -->
 
@@ -42,20 +44,21 @@ Catalog of 8-page zines about mathematics and computer science that are freely a
 | --- | --- | --- |
 | [**Dual Tiling Dot to Dot**](https://drive.google.com/file/d/1ipkTmYQABYnKL10pFRVcg_Egty-3VYL1/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | No Text |
 | [**Geometric Space Exploration**](https://drive.google.com/file/d/1deRnxsIqyKBKgzHyonZRe2Z1UQe_n0Ft/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | English |
-| ⭐ [**My Favourite Circle Fact Ever**](https://maths-week.ams3.cdn.digitaloceanspaces.com/apply-for-challenge-form/files/Higher-Circle-Facts-Zine-MWS.pdf) | [Ayliean](https://linktr.ee/Ayliean) | English |
-| [**Pythagoras**](https://maths-week.ams3.cdn.digitaloceanspaces.com/apply-for-challenge-form/files/N4_5-Pythagoras-Zine-2-MWS.pdf) | [Ayliean](https://linktr.ee/Ayliean) | English |
+| ⭐ [**My Favourite Circle Fact Ever**](https://maths-week.ams3.cdn.digitaloceanspaces.com/apply-for-challenge-form/files/Higher-Circle-Facts-Zine-MWS.pdf) _broken_ | [Ayliean](https://linktr.ee/Ayliean) | English |
+| [**Pythagoras**](https://maths-week.ams3.cdn.digitaloceanspaces.com/apply-for-challenge-form/files/N4_5-Pythagoras-Zine-2-MWS.pdf) _broken_ | [Ayliean](https://linktr.ee/Ayliean) | English |
 | [**Tilings and Duals**](https://drive.google.com/file/d/1dVYbMhA4VLz1AzoZFhrRgM3TDDJf3W_0/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | English |
 | ⭐ [**Tiny Icosahedron Colouring Book**](https://drive.google.com/file/d/1TpGD_l-wZ-GYYb1DzpiwmzS6yof7HZxA/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | English |
 | [**Truchet Tiles**](https://drive.google.com/file/d/1QeevK0H81X68JMEVZ9QkMOiZkkhmK2Xy/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | English |
 | [**Uniform Tilings Dot to Dot**](https://drive.google.com/file/d/1M9yiY5m4ezGanZS90ur2typiKchVS2dv/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | No Text |
-| [**Rotational Symmetry**](https://blogs.sd38.bc.ca/sd38mathandscience/wp-content/uploads/sites/14/2021/03/rotationalsymmetryzine.pdf) | [Becky Warren](https://beckykwarren.github.io/) | No Text |
+| [**Rotational Symmetry**](https://www.public-math.org/s/rotational-symmetry-zine-A4.pdf) | [Becky Warren](https://beckykwarren.github.io/) | No Text |
+| [**Tessellation**](https://www.public-math.org/s/tessellation-zine-A4.pdf) | [Becky Warren](https://beckykwarren.github.io/) | English |
 | [**Math & Tartans**](https://www.public-math.org/s/TARTANZINE_LETTER.png) | [Bryan Bischof](http://bbischof.com/) | English |
 | [**How Many?**](https://www.public-math.org/s/HOWMANYZINE_LETTER.pdf) | [Hana Murray](https://hanamurray.wordpress.com/) | English |
 | [**Playing with Hexagons**](https://www.public-math.org/s/HEXAGONZINE_LETTER.pdf) | [Janice Novakowski](https://janicenovakowski.com/) | English |
 | [**What do you See**](https://www.public-math.org/s/WHATDOYOUSEE_A4.pdf) | [Lesley Yao](https://bsky.app/profile/liupinn.bsky.social) | English |
 | ⭐ [**La Bonne Part**](https://mmi.universite-lyon.fr/fanzine-la-bonne-part-387875.kjsp) | [Lise Irrmann](https://liseirrmann1.wixsite.com/accueil) @ [MMI](https://mmi.universite-lyon.fr/) | French |
 | [**Drawing Cubes**](https://www.public-math.org/s/DRAWINGCUBESZINE_LETTER.pdf) | [Mark Kaercher](https://sites.google.com/nccsk12.org/mrkaercher/home) | English |
-| [**Ratios**](https://blogs.sd38.bc.ca/sd38mathandscience/wp-content/uploads/sites/14/2021/03/PublicMath_Ratios-Zine.pdf) | @ [Public Math](https://www.public-math.org/) | No Text |
+| [**Ratios**](https://www.public-math.org/s/Ratios.pdf) | @ [Public Math](https://www.public-math.org/) | No Text |
 
 <!-- ### Logic (no zines yet) -->
 
@@ -177,6 +180,7 @@ Catalog of 8-page zines about mathematics and computer science that are freely a
 | [**Colorful: Diversity in STEM**](https://zines.caltech.edu/documents/19471/Colorful_-_Alexis_Wang.pdf) | Alexis Wang @ [Caltech TechReach](https://techreach.clubs.caltech.edu/) | English |
 | [**Big Maths Jam 21**](https://drive.google.com/file/d/1Un8WcVYJfXR_U0a9pkNRem_lNkYfWDm7/view?usp=sharing) | [Ayliean](https://linktr.ee/Ayliean) | English |
 | [**Fixing It Up**](https://zines.caltech.edu/documents/19534/Lily_Kitagawa_125426_assignsubmission_file_Create2.pdf) | Lily Kitagawa @ [Caltech TechReach](https://techreach.clubs.caltech.edu/) | English |
+| [**Collection of 31 zines for #mathober 2026**](https://katiesteckles.co.uk/resources/Mathober2026-Zines.pdf) | [Katie Steckles](https://katiesteckles.co.uk/) | English |
 
 ## Subject classification
 
